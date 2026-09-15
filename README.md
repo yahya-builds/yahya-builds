@@ -10,9 +10,10 @@ My interests and Stack include
 - GSAP
 - Framer / Figma / Paper for design
 
-You can reach out to me at 
-[hello@yahyabuilds.com](hello@yahyabuilds.com)
-[x/@yahyabuilds](x.com/yahyabuilds.com)
+You can reach out to me at;
+- [hello@yahyabuilds.com](hello@yahyabuilds.com)
+- [x/@yahyabuilds](x.com/yahyabuilds.com)
+- [yahyabuilds.com](https://yahyabuilds.com)
 <!--
 **yahya-builds/yahya-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
