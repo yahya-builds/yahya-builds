@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## I'm Yahya, a designer, now learning front end dev.
+
+My interests and Stack include
+
+-- HTML, CSS, & JS
+-- Astro
+-- React
+-- GSAP
+-- Framer / Figma / Paper for design
 <!--
 **yahya-builds/yahya-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
