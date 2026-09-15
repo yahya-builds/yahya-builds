@@ -2,13 +2,14 @@
 
 ## I'm Yahya, a designer, now learning front end dev.
 
-My interests and Stack include
+My interests and Stack include;
 
 - HTML, CSS, & JS
 - Astro
+- Web UI Animation
+- Framer / Figma / Paper for design
 - React
 - GSAP
-- Framer / Figma / Paper for design
 
 You can reach out to me at;
 - [hello@yahyabuilds.com](mailto:hello@yahyabuilds.com)
